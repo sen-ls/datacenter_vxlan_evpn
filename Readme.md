@@ -1,4 +1,3 @@
-````markdown
 # VXLAN EVPN Lab on H3C S6850: eBGP Underlay + iBGP Overlay
 
 ## Introduction
